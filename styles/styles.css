@@ -728,6 +728,9 @@ animation-delay: 3.5s;
 
 /* ============================ 9. EXPERTISE//*/
 
+.expert-text {
+    text-align: justify;
+}
 
 .skill-text span {
     color: #585858;
